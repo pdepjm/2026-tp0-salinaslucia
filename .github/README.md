@@ -4,4 +4,4 @@
 
 ## me gustan las peliculas y taylor swift
 
-![Mi foto](.github/foto.jpeg)
+![Mi foto](foto.jpeg)
